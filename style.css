@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+    padding: 20px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+}
+.par1{
+    font-size: xx-large;
+    font-style: oblique;
+    line-height: 47px;
+    letter-spacing: 1px;
+}
+a{
+    font-size: xx-large;
+    text-decoration: none;
+}
